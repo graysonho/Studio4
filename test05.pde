@@ -19,5 +19,4 @@ void draw(){
   circleAY = circleAY - random(-10,10);  
   circleBX = circleBX + random(-10,10);
   circleBY = circleBY + random(-10,10);
-  saveFrame("frame_####.png");
 }
