@@ -46,7 +46,3 @@ void draw() {
     BYSpeed *= -1;
   }
 }
-
-void mousePressed() {
-  saveFrame("test09_####.png");
-}
