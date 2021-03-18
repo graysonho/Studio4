@@ -30,6 +30,4 @@ void mousePressed() {
     circleBX=width/2;
     circleBY=height/2;
     }
-    if (mouseButton == RIGHT) {
-    saveFrame ("test####.png");}
 }
